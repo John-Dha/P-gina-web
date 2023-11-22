@@ -43,7 +43,6 @@
         <p>
             <b>Correo electrónico:</b><a href="mailto:yasacajhon785@gmail.com"> yasacajhon785@gmail.com</a><br> 
           <b>Instagram:</b><a href="https://instagram.com/grifito_idk?igshid=OGQ5ZDc2ODk2ZA=="target="_blank">@grifito_Idk</a></br>
-      
             <b>Teléfono:</b> 0959023252<br>
             <b>Dirección:</b> Loja y México<br>
         </p>
